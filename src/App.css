@@ -1,0 +1,15 @@
+html, background {
+  background: #ff4c4c;
+  color: white;
+}
+
+form {
+  padding: 100px;
+  font-size: 48px;
+}
+
+/* input {
+  min-height: 10px;
+  min-width: 500px;
+  padding: 50px;
+} */
